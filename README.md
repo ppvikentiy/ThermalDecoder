@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Powered_by-Python-yellow
+
 # ThermalDecoder
 
 **Версия:** 0.0.3-beta  
