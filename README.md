@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Created_by-Vikentiy_Pachovskiy-brightgreen)  ![Static Badge](https://img.shields.io/badge/Powered_by-Python-yellow)
+![Static Badge](https://img.shields.io/badge/Created_by-Vikentiy_Pachovskiy-brightgreen)   ![Static Badge](https://img.shields.io/badge/Powered_by-Python-yellow)   ![Static Badge](https://img.shields.io/badge/Powered_by-OpenCV-orange)
 
 # ThermalDecoder
 
