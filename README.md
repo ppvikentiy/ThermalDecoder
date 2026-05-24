@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Powered_by-Python-yellow
+![Static Badge](https://img.shields.io/badge/Powered_by-Python-yellow)
 
 # ThermalDecoder
 
